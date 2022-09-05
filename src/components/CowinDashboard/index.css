@@ -1,0 +1,44 @@
+.bg-container {
+  background-color: #161625;
+  min-height: 100vh;
+  background-size: cover;
+  padding-top: 40px;
+  padding-left: 8%;
+  padding-right: 8%;
+}
+.web-logo-card {
+  display: flex;
+  align-items: center;
+}
+.web-logo-img {
+  width: 50px;
+  margin-right: 15px;
+}
+.web-name-h {
+  color: #2cc6c6;
+  font-family: roboto;
+  font-weight: 600;
+}
+.web-h1 {
+  color: white;
+  font-family: roboto;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+}
+.failure-view {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.f-img {
+  width: 60%;
+}
+.f-p {
+  color: white;
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 23px;
+}
